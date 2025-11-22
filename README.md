@@ -10,7 +10,7 @@ This Windhawk mod modifies the Windows Start Menu to give it a custom look and b
 - Smooth transitions
 
 ## 📥 How to Install
-1. Install **Windhawk** from the official website.
+1. To use this mod, you must install Windhawk. You can download it from the official website: https://windhawk.net
 2. Open Windhawk and click **Browse mods**.
 3. Search for **Start Menu Customizer** (or install manually from this repo).
 4. Click **Install**.
