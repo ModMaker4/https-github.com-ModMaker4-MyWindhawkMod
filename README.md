@@ -23,6 +23,3 @@ This Windhawk mod modifies the Windows Start Menu to give it a custom look and b
 ## 👨‍💻 Author
 Mod created by **ModMaker4**  
 GitHub: https://github.com/ModMaker4
-
-## 📄 License
-This project is open-source. Feel free to edit or improve it!
